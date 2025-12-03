@@ -104,7 +104,7 @@ export default function Home() {
                   fullWidth
                   className="text-lg py-5 shadow-xl shadow-fuchsia-500/40 hover:shadow-fuchsia-500/50"
                 >
-                  {loadingState === LoadingState.GENERATING ? 'Pintando Obras de Arte...' : 'Gerar 8 Estilos Mágicos ✨'}
+                  {loadingState === LoadingState.GENERATING ? 'Pintando Obras de Arte...' : 'Gerar Estilos Mágicos ✨'}
                 </Button>
               </div>
             )}
