@@ -23,7 +23,8 @@ async function generateSingleStyle(base64Image: string, mimeType: string, style:
     const prompt = `${style.prompt}. IMPORTANT: Return ONLY the generated image. Do not describe it.`;
 
     const response = await ai.models.generateContent({
-      model: 'gemini-2.5-flash-image', // Modelo rápido e capaz de edição de imagem
+      //model: 'gemini-2.5-flash-image', // Modelo rápido e capaz de edição de imagem
+      model: 'gemini-1.5-flash',
       contents: {
         parts: [
           {
