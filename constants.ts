@@ -41,4 +41,34 @@ export const CARICATURE_STYLES: StyleOption[] = [
     name: 'Anime',
     prompt: 'Transformar a foto em uma caricatura estilo anime, com olhos expressivos, traços definidos e paleta vibrante.',
   },
+  {
+    id: 'simpsons',
+    name: "Simpsons",
+    prompt: "Transformar a foto em uma caricatura no estilo Simpsons: pele amarela, olhos grandes arredondados, traços simples, aparência de desenho da série."
+  },
+  {
+    id: 'chaves',
+    name: "Chaves",
+    prompt: "Transformar a foto em caricatura estilo Chaves (El Chavo), com traços simples, cores chapadas e aparência de cartoon clássico mexicano."
+  },
+  {
+    id: 'disney',
+    name: "Disney",
+    prompt: "Transformar a foto em um personagem estilo Disney clássico, com olhos grandes, iluminação suave e aparência de animação tradicional."
+  },
+  {
+    id: 'lego',
+    name: "Lego",
+    prompt: "Transformar a foto em uma mini-figura Lego, com cabeça redonda icônica, textura plástica e expressões simples."
+  },
+  {
+    id: 'charge',
+    name: "Caricatura de Jornal (Charge)",
+    prompt: "Transformar a foto em uma caricatura estilo charge de jornal dos anos 90: traços exagerados, contorno forte, aparência satírica, preto e branco com detalhes rabiscados."
+  },
+  {
+    id: 'cyberpunk',
+    name: "Cyberpunk Neon",
+    prompt: "Transformar a foto em estilo cyberpunk neon, com luzes vibrantes, contraste forte e atmosfera futurista."
+  }
 ];
