@@ -49,7 +49,7 @@ export const CARICATURE_STYLES: StyleOption[] = [
   {
     id: 'chaves',
     name: "Chaves",
-    prompt: "Transformar a foto em caricatura estilo Chaves (El Chavo), com traços simples, cores chapadas e aparência de cartoon clássico mexicano."
+    prompt: "Transformar a foto em caricatura estilo Chaves (El Chavo), com traços simples, cores chapadas e aparência de cartoon clássico mexicano e com as roupas do personagem chaves."
   },
   {
     id: 'disney',
