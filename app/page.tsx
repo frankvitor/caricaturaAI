@@ -65,12 +65,8 @@ export default function Home() {
                 🎨
               </div>
               <h1 className="text-2xl font-black bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600 tracking-tight">
-                Caricaturas<span className="text-violet-600">.AI</span>
+                SublimaSeu<span className="text-violet-600">.Caricaturas</span>
               </h1>
-            </div>
-            <div className="hidden sm:flex items-center gap-2 text-sm font-medium text-gray-500 bg-gray-100/80 px-4 py-2 rounded-full border border-gray-200/50">
-              <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
-              Powered by Google Gemini
             </div>
           </div>
         </div>
@@ -88,7 +84,7 @@ export default function Home() {
               </span>
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
-              Carregue uma selfie e veja nossa IA criar 8 estilos artísticos exclusivos instantaneamente. Do traço clássico ao universo 3D e Massinha!
+              Carregue uma foto e veja nossa IA criar vários estilos exclusivos!
             </p>
           </div>
 
@@ -175,7 +171,7 @@ export default function Home() {
       <footer className="border-t border-gray-100 bg-white/50 backdrop-blur-sm mt-auto">
         <div className="max-w-7xl mx-auto py-10 px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-gray-400 font-medium">
-            Desenvolvido com 💜 usando Google Gemini API
+            Desenvolvido por SublimaSeu.AI 
           </p>
         </div>
       </footer>
